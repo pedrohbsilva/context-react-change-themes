@@ -47,7 +47,7 @@ export const grey = {
   title: 'grey',
   colors: {
     primary: '#e3e3e3',
-    secundary: '#f00',
+    secundary: '#c3c3c3',
   },
 };
 export const yellow = {
