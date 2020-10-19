@@ -18,49 +18,49 @@ export const TextColor = styled.h1`
 export const light = {
   title: 'light',
   colors: {
-    primary: '#ffffff',
-    secundary: '#000000',
+    primary: '#fff',
+    secundary: '#000',
   },
 };
 export const dark = {
   title: 'dark',
   colors: {
-    primary: '#000000',
-    secundary: '#ffffff',
+    primary: '#000',
+    secundary: '#fff',
   },
 };
 export const sapphire = {
   title: 'sapphire',
   colors: {
-    primary: '#00a88e',
-    secundary: '#ffffff',
+    primary: '#00a77e',
+    secundary: '#fff',
   },
 };
 export const blueLight = {
   title: 'blueLight',
   colors: {
-    primary: '#7fcbae',
-    secundary: '#1B1464',
+    primary: '#5cdbae',
+    secundary: '#0a1260',
   },
 };
 export const grey = {
   title: 'grey',
   colors: {
-    primary: '#3b3a3a',
-    secundary: '#ffffff',
+    primary: '#e3e3e3',
+    secundary: '#f00',
   },
 };
 export const yellow = {
   title: 'yellow',
   colors: {
-    primary: '#d7df23',
-    secundary: '#000000',
+    primary: '#dddd23',
+    secundary: '#000',
   },
 };
 export const BlueStrong = {
   title: 'BlueStrong',
   colors: {
-    primary: '#1B1464',
-    secundary: '#d7df23',
+    primary: '#164145',
+    secundary: '#dddd23',
   },
 };

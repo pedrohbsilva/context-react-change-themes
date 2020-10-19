@@ -46,7 +46,7 @@ function App() {
 
   return (
     <BackGroundPage>
-      <TextColor>Offer</TextColor>
+      <TextColor>Hello World</TextColor>
       <select
         value={selectValue}
         onChange={e => setSelectValue(e.target.value)}
